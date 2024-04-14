@@ -1,0 +1,10 @@
+{
+  "status": true,
+  "response": {
+    "id": 1,
+    "name": "Иван",
+    "surname": "Сыгинь",
+    "photo": "http://79.174.80.94:8015/photos/72025fdb9a11fb6dfcf5ecd1b140ae2d012ad4c0.jpeg",
+    "role":"client"
+  }
+}

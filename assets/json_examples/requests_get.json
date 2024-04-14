@@ -1,0 +1,11 @@
+{
+    "status":true,
+    "response":[{
+        "id":1,
+        "status":0,
+        "shop_name":"Геркулес Молоко",
+        "item_category":"Макароны",
+        "item_recommended_price":100.84,
+        "pricer_info":120.5
+    }]
+}

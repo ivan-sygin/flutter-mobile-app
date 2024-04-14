@@ -1,0 +1,17 @@
+{
+  "status": true,
+  "response": [
+    {
+      "id": 1,
+      "name": "Мороженное Геркулес",
+      "recommended_price": 120.8,
+      "imageURL": "https://puddostavka.ru/upload/iblock/bc8/kebfindxyvx1i0hmv9wet0tyoal7ck3y.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Мороженное Геркулес",
+      "recommended_price": 392.84,
+      "imageURL": "https://puddostavka.ru/upload/iblock/ba0/qb23o6l5fp3ouzsg910csko32guxqhde.jpg"
+    }
+  ]
+}
